@@ -1,0 +1,32 @@
+Imagens: 984 | classes: 25
+Parâmetros: Hamming(dHash-256) <= 24 E correlação(miniatura 16x16) >= 0.9, ou MD5 idêntico
+Pares com arquivo idêntico (MD5): 14
+Grupos: 923 | imagens pertencentes a grupos com >1 imagem: 90 (9.1%)
+Distribuição do tamanho dos grupos: 1:894, 2:18, 3:3, 4:2, 5:2, 6:2, 7:1, 8:1
+
+Por classe: imagens / grupos / maior grupo
+  Argentina     36 /  29 /  7
+  Australia     34 /  32 /  2
+  Belgium       15 /  15 /  1
+  Brazil        38 /  37 /  2
+  Canada        49 /  48 /  2
+  Chile         42 /  39 /  4
+  China         55 /  50 /  5
+  Denmark       48 /  41 /  6
+  France        50 /  47 /  4
+  Germany       46 /  39 /  6
+  Greece        43 /  42 /  2
+  India         37 /  37 /  1
+  Italy         32 /  32 /  1
+  Japan         33 /  32 /  2
+  Mexico        50 /  43 /  5
+  Netherlands   31 /  29 /  3
+  Norway        40 /  40 /  1
+  Portugal      35 /  35 /  1
+  Russia        25 /  18 /  8
+  South Korea   39 /  38 /  2
+  Spain         43 /  40 /  3
+  Sweden        39 /  37 /  2
+  Turkey        42 /  41 /  2
+  UK            38 /  38 /  1
+  USA           44 /  44 /  1

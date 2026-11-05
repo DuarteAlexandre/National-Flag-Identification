@@ -1,0 +1,11 @@
+# Environment used for the experiments (Python 3.11, CPU only)
+torch==2.15.0
+torchvision==0.29.2
+ultralytics==8.4.202
+opencv-python==5.0.0
+numpy==2.4.6
+pandas==3.0.6
+scikit-learn==1.9.1
+pillow==12.3.0
+matplotlib==3.11.2
+seaborn==0.13.2

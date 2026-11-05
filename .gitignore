@@ -1,0 +1,23 @@
+# Never commit photographs, caches, weights or run folders
+dataset/*
+!dataset/README.md
+maritime/frames/
+maritime/videos/
+maritime/attr_crops/
+maritime/labels_backup/
+maritime/yolo_flag/
+maritime/photos_manifest.csv
+work/
+cache/
+*.pt
+*.jpg
+*.jpeg
+*.jfif
+*.webp
+*.avif
+*.mp4
+results/maritime/qualitative/
+splits/cluster_examples.jpg
+flag_metadata_no_images.zip
+__pycache__/
+*.pyc

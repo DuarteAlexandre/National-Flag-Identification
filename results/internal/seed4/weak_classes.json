@@ -1,0 +1,11 @@
+{
+  "seed": 4,
+  "weak_classes": [
+    "Belgium",
+    "Netherlands",
+    "Norway",
+    "Italy",
+    "Chile"
+  ],
+  "rule": "5 classes com menor probabilidade média da classe verdadeira na VALIDAÇÃO do modelo direct_none (o teste não participa)"
+}

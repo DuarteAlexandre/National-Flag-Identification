@@ -1,0 +1,158 @@
+[
+ {
+  "name": "Argentina",
+  "color": "#f23c3c",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Australia",
+  "color": "#f2663c",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Belgium",
+  "color": "#f2903c",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Brazil",
+  "color": "#f2ba3c",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Canada",
+  "color": "#f2e43c",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Chile",
+  "color": "#d6f23c",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "China",
+  "color": "#acf23c",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Denmark",
+  "color": "#82f23c",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "France",
+  "color": "#58f23c",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Germany",
+  "color": "#3cf24a",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Greece",
+  "color": "#3cf274",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "India",
+  "color": "#3cf29e",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Italy",
+  "color": "#3cf2c8",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Japan",
+  "color": "#3cf2f2",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Mexico",
+  "color": "#3cc8f2",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Netherlands",
+  "color": "#3c9ef2",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Norway",
+  "color": "#3c74f2",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Portugal",
+  "color": "#3c4af2",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Russia",
+  "color": "#583cf2",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "South Korea",
+  "color": "#823cf2",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Spain",
+  "color": "#ac3cf2",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Sweden",
+  "color": "#d63cf2",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "Turkey",
+  "color": "#f23ce4",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "UK",
+  "color": "#f23cba",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "USA",
+  "color": "#f23c90",
+  "type": "rectangle",
+  "attributes": []
+ },
+ {
+  "name": "other",
+  "color": "#f23c66",
+  "type": "rectangle",
+  "attributes": []
+ }
+]

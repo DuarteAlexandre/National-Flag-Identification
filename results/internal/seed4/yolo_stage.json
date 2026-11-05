@@ -1,0 +1,23 @@
+{
+  "best_pt": "D:\\3. Artigos\\1. Alunos MBA USP ESALQ\\242\\Victor Sattin\\IMTS -  Springer\\flag-main - v0\\work\\yolo_proxy_seed4\\runs\\train\\weights\\best.pt",
+  "train_seconds": 1220.0740036964417,
+  "conf_threshold": 0.25,
+  "box_rule": "uma caixa por imagem: a de maior confiança com conf >= conf_threshold; sem detecção -> imagem inteira",
+  "imgsz": 320,
+  "epochs": 15,
+  "proxy_val_map50": 0.995,
+  "proxy_val_map50_95": 0.9949999999999999,
+  "proxy_val_precision": 0.9985889126075709,
+  "proxy_val_recall": 1.0,
+  "detection_rate": {
+    "train": 0.9928774928774928,
+    "val": 0.9787234042553191,
+    "test": 0.9574468085106383
+  },
+  "mean_iou_with_full_image_box": {
+    "train": 0.9952804994377892,
+    "val": 0.9950580147729404,
+    "test": 0.9946067646697715
+  },
+  "note": "mAP medido contra caixas-proxy (imagem inteira); NÃO é desempenho de localização em cenas reais."
+}
