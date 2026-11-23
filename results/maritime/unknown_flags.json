@@ -1,0 +1,1523 @@
+{
+ "summary": [
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.0,
+   "k": 29,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.5,
+   "k": 21,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.7,
+   "k": 16,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.8,
+   "k": 14,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.9,
+   "k": 10,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "single_e30",
+   "td": 0.25,
+   "tc": null,
+   "k": 22,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "single_e100",
+   "td": 0.25,
+   "tc": null,
+   "k": 19,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.0,
+   "k": 27,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.5,
+   "k": 19,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.7,
+   "k": 16,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.8,
+   "k": 13,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.9,
+   "k": 9,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "single_e30",
+   "td": 0.5,
+   "tc": null,
+   "k": 10,
+   "n": 30
+  },
+  {
+   "group": "A",
+   "model": "single_e100",
+   "td": 0.5,
+   "tc": null,
+   "k": 9,
+   "n": 30
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.0,
+   "k": 14,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.5,
+   "k": 6,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.7,
+   "k": 6,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.8,
+   "k": 4,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.9,
+   "k": 2,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "single_e30",
+   "td": 0.25,
+   "tc": null,
+   "k": 8,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "single_e100",
+   "td": 0.25,
+   "tc": null,
+   "k": 5,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.0,
+   "k": 14,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.5,
+   "k": 6,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.7,
+   "k": 6,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.8,
+   "k": 3,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.9,
+   "k": 1,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "single_e30",
+   "td": 0.5,
+   "tc": null,
+   "k": 4,
+   "n": 14
+  },
+  {
+   "group": "B",
+   "model": "single_e100",
+   "td": 0.5,
+   "tc": null,
+   "k": 3,
+   "n": 14
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.0,
+   "k": 7,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.5,
+   "k": 4,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.7,
+   "k": 2,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.8,
+   "k": 2,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.25,
+   "tc": 0.9,
+   "k": 1,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "single_e30",
+   "td": 0.25,
+   "tc": null,
+   "k": 6,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "single_e100",
+   "td": 0.25,
+   "tc": null,
+   "k": 4,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.0,
+   "k": 5,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.5,
+   "k": 2,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.7,
+   "k": 1,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.8,
+   "k": 1,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "two_stage",
+   "td": 0.5,
+   "tc": 0.9,
+   "k": 0,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "single_e30",
+   "td": 0.5,
+   "tc": null,
+   "k": 4,
+   "n": 7
+  },
+  {
+   "group": "NAVAL25",
+   "model": "single_e100",
+   "td": 0.5,
+   "tc": null,
+   "k": 2,
+   "n": 7
+  }
+ ],
+ "per_image": {
+  "A/Austria_1.jpg": {
+   "group": "A",
+   "file": "Austria_1.jpg",
+   "two_stage": [
+    {
+     "conf": 0.9243857264518738,
+     "prob": 0.8545147180557251,
+     "cls": "Germany"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.9803140163421631,
+     "cls": "Spain"
+    },
+    {
+     "conf": 0.4238327145576477,
+     "cls": "Netherlands"
+    },
+    {
+     "conf": 0.36860519647598267,
+     "cls": "China"
+    }
+   ],
+   "single_e100": []
+  },
+  "A/Austria_2.jpg": {
+   "group": "A",
+   "file": "Austria_2.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8471801280975342,
+     "prob": 0.4933808445930481,
+     "cls": "Germany"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.7996739149093628,
+     "cls": "Netherlands"
+    },
+    {
+     "conf": 0.6518298983573914,
+     "cls": "Spain"
+    },
+    {
+     "conf": 0.3116762042045593,
+     "cls": "Netherlands"
+    },
+    {
+     "conf": 0.3002204895019531,
+     "cls": "China"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.7239817380905151,
+     "cls": "Germany"
+    }
+   ]
+  },
+  "A/Austria_3.jpg": {
+   "group": "A",
+   "file": "Austria_3.jpg",
+   "two_stage": [
+    {
+     "conf": 0.3751737177371979,
+     "prob": 0.519886314868927,
+     "cls": "USA"
+    },
+    {
+     "conf": 0.3450707793235779,
+     "prob": 0.5902028679847717,
+     "cls": "USA"
+    },
+    {
+     "conf": 0.30443593859672546,
+     "prob": 0.2899796664714813,
+     "cls": "Netherlands"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.26778140664100647,
+     "cls": "Germany"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.28747570514678955,
+     "cls": "Australia"
+    }
+   ]
+  },
+  "A/Austria_4.jpg": {
+   "group": "A",
+   "file": "Austria_4.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8281105756759644,
+     "prob": 0.9864475727081299,
+     "cls": "Germany"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.8429027795791626,
+     "cls": "Norway"
+    },
+    {
+     "conf": 0.43980973958969116,
+     "cls": "USA"
+    }
+   ],
+   "single_e100": []
+  },
+  "A/Georgia_1.jpg": {
+   "group": "A",
+   "file": "Georgia_1.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8148936629295349,
+     "prob": 0.13878895342350006,
+     "cls": "Spain"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.3565840721130371,
+     "cls": "Canada"
+    },
+    {
+     "conf": 0.293122798204422,
+     "cls": "UK"
+    }
+   ],
+   "single_e100": []
+  },
+  "A/Georgia_2.jpg": {
+   "group": "A",
+   "file": "Georgia_2.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8277024030685425,
+     "prob": 0.6728495955467224,
+     "cls": "UK"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.3564704954624176,
+     "cls": "Canada"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.8168749213218689,
+     "cls": "Canada"
+    }
+   ]
+  },
+  "A/Georgia_3.jpg": {
+   "group": "A",
+   "file": "Georgia_3.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8727561831474304,
+     "prob": 0.8763597011566162,
+     "cls": "Canada"
+    },
+    {
+     "conf": 0.5300528407096863,
+     "prob": 0.7349293231964111,
+     "cls": "Canada"
+    },
+    {
+     "conf": 0.32268473505973816,
+     "prob": 0.4759052097797394,
+     "cls": "Canada"
+    },
+    {
+     "conf": 0.27025851607322693,
+     "prob": 0.28930211067199707,
+     "cls": "Canada"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.8861255645751953,
+     "cls": "Norway"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.8722561001777649,
+     "cls": "USA"
+    }
+   ]
+  },
+  "A/Georgia_4.jpg": {
+   "group": "A",
+   "file": "Georgia_4.jpg",
+   "two_stage": [
+    {
+     "conf": 0.542885959148407,
+     "prob": 0.4469185173511505,
+     "cls": "Denmark"
+    },
+    {
+     "conf": 0.45768454670906067,
+     "prob": 0.4403998553752899,
+     "cls": "Denmark"
+    },
+    {
+     "conf": 0.36330363154411316,
+     "prob": 0.6974095702171326,
+     "cls": "Denmark"
+    },
+    {
+     "conf": 0.28472864627838135,
+     "prob": 0.6546440124511719,
+     "cls": "Denmark"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.3072034418582916,
+     "cls": "Norway"
+    }
+   ],
+   "single_e100": []
+  },
+  "A/Indonesia_1.jpg": {
+   "group": "A",
+   "file": "Indonesia_1.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7837035655975342,
+     "prob": 0.9879637956619263,
+     "cls": "Netherlands"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": []
+  },
+  "A/Indonesia_2.jpg": {
+   "group": "A",
+   "file": "Indonesia_2.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8794373273849487,
+     "prob": 0.7650617957115173,
+     "cls": "Netherlands"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": []
+  },
+  "A/Indonesia_3.jpg": {
+   "group": "A",
+   "file": "Indonesia_3.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7074042558670044,
+     "prob": 0.9563547968864441,
+     "cls": "Netherlands"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": [
+    {
+     "conf": 0.5801787376403809,
+     "cls": "Germany"
+    }
+   ]
+  },
+  "A/Indonesia_4.jpg": {
+   "group": "A",
+   "file": "Indonesia_4.jpg",
+   "two_stage": [
+    {
+     "conf": 0.9284734129905701,
+     "prob": 0.7919139266014099,
+     "cls": "China"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": [
+    {
+     "conf": 0.4670964777469635,
+     "cls": "Netherlands"
+    },
+    {
+     "conf": 0.4258235991001129,
+     "cls": "China"
+    }
+   ]
+  },
+  "A/Irlanda_1.jpg": {
+   "group": "A",
+   "file": "Irlanda_1.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7790055871009827,
+     "prob": 0.48791009187698364,
+     "cls": "Belgium"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.39910563826560974,
+     "cls": "Italy"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.6545346975326538,
+     "cls": "Spain"
+    },
+    {
+     "conf": 0.4810108542442322,
+     "cls": "Belgium"
+    }
+   ]
+  },
+  "A/Irlanda_2.jpg": {
+   "group": "A",
+   "file": "Irlanda_2.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8404703140258789,
+     "prob": 0.9396364092826843,
+     "cls": "France"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.5372906923294067,
+     "cls": "Chile"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.3151577115058899,
+     "cls": "Mexico"
+    }
+   ]
+  },
+  "A/Irlanda_3.jpg": {
+   "group": "A",
+   "file": "Irlanda_3.jpg",
+   "two_stage": [
+    {
+     "conf": 0.9259868860244751,
+     "prob": 0.9990749359130859,
+     "cls": "Italy"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": [
+    {
+     "conf": 0.5153465867042542,
+     "cls": "Belgium"
+    },
+    {
+     "conf": 0.4874684810638428,
+     "cls": "Mexico"
+    }
+   ]
+  },
+  "A/Irlanda_4.jpg": {
+   "group": "A",
+   "file": "Irlanda_4.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7539573311805725,
+     "prob": 0.9995017051696777,
+     "cls": "Italy"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.6130632758140564,
+     "cls": "India"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.41448333859443665,
+     "cls": "Belgium"
+    }
+   ]
+  },
+  "A/Luxemburgo_1.jpg": {
+   "group": "A",
+   "file": "Luxemburgo_1.jpg",
+   "two_stage": [
+    {
+     "conf": 0.27101588249206543,
+     "prob": 0.31095466017723083,
+     "cls": "Argentina"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.3640093207359314,
+     "cls": "China"
+    }
+   ],
+   "single_e100": []
+  },
+  "A/Luxemburgo_2.jpg": {
+   "group": "A",
+   "file": "Luxemburgo_2.jpg",
+   "two_stage": [
+    {
+     "conf": 0.9694824814796448,
+     "prob": 0.9549934267997742,
+     "cls": "Netherlands"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": [
+    {
+     "conf": 0.26430901885032654,
+     "cls": "France"
+    }
+   ]
+  },
+  "A/Monaco_1.jpg": {
+   "group": "A",
+   "file": "Monaco_1.jpg",
+   "two_stage": [],
+   "single_e30": [],
+   "single_e100": []
+  },
+  "A/Monaco_2.jpg": {
+   "group": "A",
+   "file": "Monaco_2.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8267457485198975,
+     "prob": 0.4579382836818695,
+     "cls": "Netherlands"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.311109334230423,
+     "cls": "Netherlands"
+    },
+    {
+     "conf": 0.2650744915008545,
+     "cls": "Spain"
+    }
+   ],
+   "single_e100": []
+  },
+  "A/Monaco_3.jpg": {
+   "group": "A",
+   "file": "Monaco_3.jpg",
+   "two_stage": [
+    {
+     "conf": 0.9008626937866211,
+     "prob": 0.2532940208911896,
+     "cls": "Germany"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.560096263885498,
+     "cls": "Sweden"
+    },
+    {
+     "conf": 0.5297471284866333,
+     "cls": "Mexico"
+    },
+    {
+     "conf": 0.431942880153656,
+     "cls": "Netherlands"
+    },
+    {
+     "conf": 0.30339953303337097,
+     "cls": "India"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.329756498336792,
+     "cls": "Netherlands"
+    }
+   ]
+  },
+  "A/Monaco_4.jpg": {
+   "group": "A",
+   "file": "Monaco_4.jpg",
+   "two_stage": [
+    {
+     "conf": 0.74496990442276,
+     "prob": 0.645155131816864,
+     "cls": "Netherlands"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": []
+  },
+  "A/Peru_1.jpg": {
+   "group": "A",
+   "file": "Peru_1.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8485295176506042,
+     "prob": 0.6450993418693542,
+     "cls": "Mexico"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.27724578976631165,
+     "cls": "Spain"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.4065977931022644,
+     "cls": "Mexico"
+    }
+   ]
+  },
+  "A/Peru_2.jpg": {
+   "group": "A",
+   "file": "Peru_2.jpg",
+   "two_stage": [
+    {
+     "conf": 0.9072139263153076,
+     "prob": 0.4899473488330841,
+     "cls": "Spain"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.6683720350265503,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e100": []
+  },
+  "A/Peru_3.jpg": {
+   "group": "A",
+   "file": "Peru_3.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8465922474861145,
+     "prob": 0.47038763761520386,
+     "cls": "Mexico"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.3538026809692383,
+     "cls": "Norway"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.3176604211330414,
+     "cls": "Italy"
+    }
+   ]
+  },
+  "A/Peru_4.jpg": {
+   "group": "A",
+   "file": "Peru_4.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7739174365997314,
+     "prob": 0.8488916158676147,
+     "cls": "France"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.29165521264076233,
+     "cls": "China"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.9167198538780212,
+     "cls": "Sweden"
+    }
+   ]
+  },
+  "A/Romenia_1.jpg": {
+   "group": "A",
+   "file": "Romenia_1.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7399135231971741,
+     "prob": 0.5049658417701721,
+     "cls": "France"
+    },
+    {
+     "conf": 0.7354308366775513,
+     "prob": 0.9753382205963135,
+     "cls": "Argentina"
+    },
+    {
+     "conf": 0.6240317821502686,
+     "prob": 0.28457513451576233,
+     "cls": "Sweden"
+    },
+    {
+     "conf": 0.2750296890735626,
+     "prob": 0.5300195813179016,
+     "cls": "Belgium"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.49439501762390137,
+     "cls": "Canada"
+    },
+    {
+     "conf": 0.3412586748600006,
+     "cls": "Greece"
+    },
+    {
+     "conf": 0.3117764890193939,
+     "cls": "Australia"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.27177515625953674,
+     "cls": "Greece"
+    }
+   ]
+  },
+  "A/Romenia_2.jpg": {
+   "group": "A",
+   "file": "Romenia_2.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7418757081031799,
+     "prob": 0.8562008142471313,
+     "cls": "Belgium"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.888965368270874,
+     "cls": "Belgium"
+    },
+    {
+     "conf": 0.6528025269508362,
+     "cls": "Australia"
+    },
+    {
+     "conf": 0.574124276638031,
+     "cls": "France"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.9142106771469116,
+     "cls": "Belgium"
+    }
+   ]
+  },
+  "A/Romenia_3.jpg": {
+   "group": "A",
+   "file": "Romenia_3.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7415252327919006,
+     "prob": 0.9485329389572144,
+     "cls": "France"
+    },
+    {
+     "conf": 0.26041701436042786,
+     "prob": 0.5034552812576294,
+     "cls": "China"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.6731700897216797,
+     "cls": "Australia"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.2641569972038269,
+     "cls": "Canada"
+    }
+   ]
+  },
+  "A/Romenia_4.jpg": {
+   "group": "A",
+   "file": "Romenia_4.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8235840797424316,
+     "prob": 0.7134521007537842,
+     "cls": "Belgium"
+    },
+    {
+     "conf": 0.41140875220298767,
+     "prob": 0.9692413806915283,
+     "cls": "Belgium"
+    },
+    {
+     "conf": 0.3931984007358551,
+     "prob": 0.9815795421600342,
+     "cls": "Belgium"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.4643605947494507,
+     "cls": "Australia"
+    },
+    {
+     "conf": 0.2529197633266449,
+     "cls": "Germany"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.5649020671844482,
+     "cls": "Belgium"
+    }
+   ]
+  },
+  "B/10. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "10. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7314818501472473,
+     "prob": 0.26786258816719055,
+     "cls": "Australia"
+    },
+    {
+     "conf": 0.637312114238739,
+     "prob": 0.2890867292881012,
+     "cls": "Belgium"
+    },
+    {
+     "conf": 0.5042651891708374,
+     "prob": 0.3709271550178528,
+     "cls": "Belgium"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": [
+    {
+     "conf": 0.34716805815696716,
+     "cls": "Australia"
+    }
+   ]
+  },
+  "B/11. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "11. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8988425135612488,
+     "prob": 0.4555259644985199,
+     "cls": "France"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": []
+  },
+  "B/12. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "12. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7765477895736694,
+     "prob": 0.1445227861404419,
+     "cls": "Portugal"
+    },
+    {
+     "conf": 0.39814943075180054,
+     "prob": 0.23609355092048645,
+     "cls": "India"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.42677831649780273,
+     "cls": "Italy"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.6572312712669373,
+     "cls": "Japan"
+    }
+   ]
+  },
+  "B/13. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "13. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.914770245552063,
+     "prob": 0.35665079951286316,
+     "cls": "Spain"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.4311530590057373,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e100": []
+  },
+  "B/14. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "14. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.9590379595756531,
+     "prob": 0.7571724653244019,
+     "cls": "Australia"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": [
+    {
+     "conf": 0.3653602600097656,
+     "cls": "Australia"
+    }
+   ]
+  },
+  "B/15. Pirata.jpg": {
+   "group": "B",
+   "file": "15. Pirata.jpg",
+   "two_stage": [
+    {
+     "conf": 0.7771027088165283,
+     "prob": 0.4465586543083191,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.5664520859718323,
+     "cls": "Australia"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.558223307132721,
+     "cls": "Mexico"
+    }
+   ]
+  },
+  "B/16. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "16. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.9313588738441467,
+     "prob": 0.8434394001960754,
+     "cls": "Turkey"
+    },
+    {
+     "conf": 0.6522845029830933,
+     "prob": 0.7089818120002747,
+     "cls": "Turkey"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.30787840485572815,
+     "cls": "Spain"
+    }
+   ],
+   "single_e100": []
+  },
+  "B/17. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "17. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.927323579788208,
+     "prob": 0.8353878259658813,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.4445805549621582,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.7043269872665405,
+     "cls": "Portugal"
+    }
+   ]
+  },
+  "B/18. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "18. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8539593815803528,
+     "prob": 0.40650397539138794,
+     "cls": "India"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.9590646028518677,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e100": []
+  },
+  "B/19. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "19. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8294624090194702,
+     "prob": 0.2734365165233612,
+     "cls": "Chile"
+    },
+    {
+     "conf": 0.29296398162841797,
+     "prob": 0.4486047327518463,
+     "cls": "Chile"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.7941144108772278,
+     "cls": "Norway"
+    }
+   ],
+   "single_e100": []
+  },
+  "B/20. Bandeira qualquer.jpg": {
+   "group": "B",
+   "file": "20. Bandeira qualquer.jpg",
+   "two_stage": [
+    {
+     "conf": 0.9526510834693909,
+     "prob": 0.7600505352020264,
+     "cls": "UK"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": []
+  },
+  "B/7. Pirata.webp": {
+   "group": "B",
+   "file": "7. Pirata.webp",
+   "two_stage": [
+    {
+     "conf": 0.9158697724342346,
+     "prob": 0.2985926866531372,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": []
+  },
+  "B/8. Bandeira Papa.jpg": {
+   "group": "B",
+   "file": "8. Bandeira Papa.jpg",
+   "two_stage": [
+    {
+     "conf": 0.5797652006149292,
+     "prob": 0.7980985641479492,
+     "cls": "France"
+    },
+    {
+     "conf": 0.3148500621318817,
+     "prob": 0.9458242654800415,
+     "cls": "France"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": []
+  },
+  "B/9. Bandeira Oscar.jpg": {
+   "group": "B",
+   "file": "9. Bandeira Oscar.jpg",
+   "two_stage": [
+    {
+     "conf": 0.5981096625328064,
+     "prob": 0.9004598259925842,
+     "cls": "Germany"
+    },
+    {
+     "conf": 0.40993019938468933,
+     "prob": 0.844448447227478,
+     "cls": "Germany"
+    },
+    {
+     "conf": 0.3470877707004547,
+     "prob": 0.8327509164810181,
+     "cls": "Germany"
+    },
+    {
+     "conf": 0.29367196559906006,
+     "prob": 0.3520376980304718,
+     "cls": "China"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.5049479603767395,
+     "cls": "Brazil"
+    }
+   ],
+   "single_e100": []
+  },
+  "NAVAL25/1. Marines USA.jpg": {
+   "group": "NAVAL25",
+   "file": "1. Marines USA.jpg",
+   "two_stage": [
+    {
+     "conf": 0.6519812345504761,
+     "prob": 0.3417881429195404,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.4433722198009491,
+     "cls": "Brazil"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.7582123279571533,
+     "cls": "Portugal"
+    }
+   ]
+  },
+  "NAVAL25/2. Marinha Brasil.jfif": {
+   "group": "NAVAL25",
+   "file": "2. Marinha Brasil.jfif",
+   "two_stage": [
+    {
+     "conf": 0.6752962470054626,
+     "prob": 0.5623582601547241,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.9793349504470825,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.3060912489891052,
+     "cls": "Brazil"
+    }
+   ]
+  },
+  "NAVAL25/3. Marinha China.jpg": {
+   "group": "NAVAL25",
+   "file": "3. Marinha China.jpg",
+   "two_stage": [
+    {
+     "conf": 0.8245552778244019,
+     "prob": 0.8492975831031799,
+     "cls": "China"
+    }
+   ],
+   "single_e30": [],
+   "single_e100": []
+  },
+  "NAVAL25/4. Mainha Russia.jfif": {
+   "group": "NAVAL25",
+   "file": "4. Mainha Russia.jfif",
+   "two_stage": [
+    {
+     "conf": 0.4852846562862396,
+     "prob": 0.5087176561355591,
+     "cls": "Mexico"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.850857138633728,
+     "cls": "Brazil"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.5174360871315002,
+     "cls": "Brazil"
+    }
+   ]
+  },
+  "NAVAL25/5. Marinha Holanda.webp": {
+   "group": "NAVAL25",
+   "file": "5. Marinha Holanda.webp",
+   "two_stage": [
+    {
+     "conf": 0.846935510635376,
+     "prob": 0.40616509318351746,
+     "cls": "Germany"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.8633626103401184,
+     "cls": "Norway"
+    },
+    {
+     "conf": 0.5982358455657959,
+     "cls": "Denmark"
+    },
+    {
+     "conf": 0.4669065773487091,
+     "cls": "Spain"
+    }
+   ],
+   "single_e100": [
+    {
+     "conf": 0.46473169326782227,
+     "cls": "Norway"
+    }
+   ]
+  },
+  "NAVAL25/5. Navy USA.jpg": {
+   "group": "NAVAL25",
+   "file": "5. Navy USA.jpg",
+   "two_stage": [
+    {
+     "conf": 0.6889438629150391,
+     "prob": 0.4748000502586365,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.27991124987602234,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e100": []
+  },
+  "NAVAL25/6. Marinha Noruega.webp": {
+   "group": "NAVAL25",
+   "file": "6. Marinha Noruega.webp",
+   "two_stage": [
+    {
+     "conf": 0.44928738474845886,
+     "prob": 0.7995207905769348,
+     "cls": "Portugal"
+    },
+    {
+     "conf": 0.414181113243103,
+     "prob": 0.953676700592041,
+     "cls": "Portugal"
+    }
+   ],
+   "single_e30": [
+    {
+     "conf": 0.6641979217529297,
+     "cls": "Brazil"
+    }
+   ],
+   "single_e100": []
+  }
+ }
+}

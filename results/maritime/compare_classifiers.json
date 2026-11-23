@@ -1,0 +1,146 @@
+{
+  "env": {
+    "python": "3.11.16",
+    "platform": "Windows-10-10.0.26300-SP0",
+    "processor": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",
+    "cpu_count": 12,
+    "torch": "2.15.0+cpu",
+    "torch_threads": 8,
+    "device": "cpu",
+    "torchvision": "0.29.2+cpu",
+    "ultralytics": "8.4.202"
+  },
+  "args": {
+    "seed": 0,
+    "det_imgsz": 512,
+    "conf": 0.25,
+    "margin": 0.1,
+    "epochs": 30,
+    "patience": 7,
+    "batch": 32,
+    "lr": 0.0003,
+    "img_size": 224,
+    "repeat": 3,
+    "weak_k": 5,
+    "timing_passes": 3,
+    "force_retrain": false,
+    "no_pretrained": false
+  },
+  "n_params": {
+    "resnet18": 11189337,
+    "mobilenet_v3_large": 4234057
+  },
+  "n_test_frames": 117,
+  "n_test_boxes": 107,
+  "per_model": {
+    "resnet18": {
+      "operating": {
+        "conf": 0.25,
+        "det_tp": 101,
+        "det_fp": 37,
+        "det_fn": 6,
+        "det_precision": 0.7318840579710145,
+        "det_recall": 0.9439252336448598,
+        "det_f1": 0.8244897959183674,
+        "class_acc_on_matched": 0.9108910891089109,
+        "e2e_precision": 0.6666666666666666,
+        "e2e_recall": 0.8598130841121495,
+        "neg_frames": 10,
+        "neg_frames_with_false_alarm": 1,
+        "false_alarm_rate_neg_frames": 0.1,
+        "fp_per_neg_frame": 0.1
+      },
+      "oracle_accuracy": 0.9252336448598131,
+      "oracle_f1_macro": 0.9235382395382394,
+      "oracle_n": 107,
+      "frame_top1_detected_box": 0.8691588785046729
+    },
+    "mobilenet_v3_large": {
+      "operating": {
+        "conf": 0.25,
+        "det_tp": 101,
+        "det_fp": 37,
+        "det_fn": 6,
+        "det_precision": 0.7318840579710145,
+        "det_recall": 0.9439252336448598,
+        "det_f1": 0.8244897959183674,
+        "class_acc_on_matched": 0.8712871287128713,
+        "e2e_precision": 0.6376811594202898,
+        "e2e_recall": 0.822429906542056,
+        "neg_frames": 10,
+        "neg_frames_with_false_alarm": 1,
+        "false_alarm_rate_neg_frames": 0.1,
+        "fp_per_neg_frame": 0.1
+      },
+      "oracle_accuracy": 0.897196261682243,
+      "oracle_f1_macro": 0.8916132756132755,
+      "oracle_n": 107,
+      "frame_top1_detected_box": 0.8317757009345794
+    }
+  },
+  "paired_mobilenet_minus_resnet": {
+    "oracle": {
+      "diff": -0.028037383177570097,
+      "ci95": [
+        -0.07476635514018692,
+        0.01869158878504673
+      ],
+      "only_mobilenet_correct": 2,
+      "only_resnet_correct": 5,
+      "n": 107
+    },
+    "e2e": {
+      "diff": -0.03738317757009346,
+      "ci95": [
+        -0.09345794392523366,
+        0.009345794392523366
+      ],
+      "only_mobilenet_correct": 2,
+      "only_resnet_correct": 6,
+      "n": 107
+    },
+    "frame_top1": {
+      "diff": -0.03738317757009346,
+      "ci95": [
+        -0.09345794392523366,
+        0.009345794392523366
+      ],
+      "only_mobilenet_correct": 2,
+      "only_resnet_correct": 6,
+      "n": 107
+    }
+  },
+  "timing": {
+    "resnet18": {
+      "clf_only_ms_mean": 30.230150467750974,
+      "clf_only_ms_sd": 1.8607198984241513,
+      "clf_only_ms_median": 30.1325999898836,
+      "pipeline_ms_mean": 72.61584586801506,
+      "pipeline_ms_sd": 18.44541006126278,
+      "pipeline_ms_median": 71.8228000041563,
+      "pipeline_pass_means_ms": [
+        70.00171025502536,
+        73.46612734906176,
+        74.37969999995806
+      ],
+      "n_crops": 107,
+      "n_frames": 117
+    },
+    "mobilenet_v3_large": {
+      "clf_only_ms_mean": 19.247318691620457,
+      "clf_only_ms_sd": 2.6069696487230845,
+      "clf_only_ms_median": 20.24600000004284,
+      "pipeline_ms_mean": 60.219401140359665,
+      "pipeline_ms_sd": 12.730503604972178,
+      "pipeline_ms_median": 59.85339998733252,
+      "pipeline_pass_means_ms": [
+        59.649304273880574,
+        60.36631624004406,
+        60.64258290715436
+      ],
+      "n_crops": 107,
+      "n_frames": 117
+    }
+  },
+  "timing_protocol": "dispositivo=cpu, lote=1, frame ja decodificado, imgsz=512, conf=0.25; 3 passagens alternadas; 'pipeline' = detector + NMS + recortes + classificacao de todas as caixas; 'clf_only' = pre-processamento + classificador por recorte anotado"
+}

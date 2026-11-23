@@ -1,0 +1,198 @@
+[
+ {
+  "det_conf": 0.25,
+  "clf_prob": 0.0,
+  "e2e_precision": 0.6666666666666666,
+  "e2e_recall": 0.8598130841121495,
+  "fa_extra": 18,
+  "fa_test": 1,
+  "fa_pooled": 19,
+  "n_pooled": 106,
+  "wilson95": [
+   0.11786105495852324,
+   0.26306566133111564
+  ]
+ },
+ {
+  "det_conf": 0.25,
+  "clf_prob": 0.3,
+  "e2e_precision": 0.6865671641791045,
+  "e2e_recall": 0.8598130841121495,
+  "fa_extra": 10,
+  "fa_test": 1,
+  "fa_pooled": 11,
+  "n_pooled": 106,
+  "wilson95": [
+   0.05893898061424893,
+   0.17632343362589323
+  ]
+ },
+ {
+  "det_conf": 0.25,
+  "clf_prob": 0.5,
+  "e2e_precision": 0.736,
+  "e2e_recall": 0.8598130841121495,
+  "fa_extra": 7,
+  "fa_test": 0,
+  "fa_pooled": 7,
+  "n_pooled": 106,
+  "wilson95": [
+   0.0323537353402859,
+   0.13007652787510787
+  ]
+ },
+ {
+  "det_conf": 0.25,
+  "clf_prob": 0.7,
+  "e2e_precision": 0.7647058823529411,
+  "e2e_recall": 0.8504672897196262,
+  "fa_extra": 4,
+  "fa_test": 0,
+  "fa_pooled": 4,
+  "n_pooled": 106,
+  "wilson95": [
+   0.014770608109942171,
+   0.09303554183689035
+  ]
+ },
+ {
+  "det_conf": 0.25,
+  "clf_prob": 0.8,
+  "e2e_precision": 0.7777777777777778,
+  "e2e_recall": 0.8504672897196262,
+  "fa_extra": 1,
+  "fa_test": 0,
+  "fa_pooled": 1,
+  "n_pooled": 106,
+  "wilson95": [
+   0.0016672287844913501,
+   0.05151480789377989
+  ]
+ },
+ {
+  "det_conf": 0.25,
+  "clf_prob": 0.9,
+  "e2e_precision": 0.8073394495412844,
+  "e2e_recall": 0.822429906542056,
+  "fa_extra": 1,
+  "fa_test": 0,
+  "fa_pooled": 1,
+  "n_pooled": 106,
+  "wilson95": [
+   0.0016672287844913501,
+   0.05151480789377989
+  ]
+ },
+ {
+  "det_conf": 0.25,
+  "clf_prob": 0.95,
+  "e2e_precision": 0.8415841584158416,
+  "e2e_recall": 0.794392523364486,
+  "fa_extra": 1,
+  "fa_test": 0,
+  "fa_pooled": 1,
+  "n_pooled": 106,
+  "wilson95": [
+   0.0016672287844913501,
+   0.05151480789377989
+  ]
+ },
+ {
+  "det_conf": 0.5,
+  "clf_prob": 0.0,
+  "e2e_precision": 0.8301886792452831,
+  "e2e_recall": 0.822429906542056,
+  "fa_extra": 7,
+  "fa_test": 0,
+  "fa_pooled": 7,
+  "n_pooled": 106,
+  "wilson95": [
+   0.0323537353402859,
+   0.13007652787510787
+  ]
+ },
+ {
+  "det_conf": 0.5,
+  "clf_prob": 0.3,
+  "e2e_precision": 0.8380952380952381,
+  "e2e_recall": 0.822429906542056,
+  "fa_extra": 2,
+  "fa_test": 0,
+  "fa_pooled": 2,
+  "n_pooled": 106,
+  "wilson95": [
+   0.005189500019088127,
+   0.0662005744153702
+  ]
+ },
+ {
+  "det_conf": 0.5,
+  "clf_prob": 0.5,
+  "e2e_precision": 0.87,
+  "e2e_recall": 0.8130841121495327,
+  "fa_extra": 2,
+  "fa_test": 0,
+  "fa_pooled": 2,
+  "n_pooled": 106,
+  "wilson95": [
+   0.005189500019088127,
+   0.0662005744153702
+  ]
+ },
+ {
+  "det_conf": 0.5,
+  "clf_prob": 0.7,
+  "e2e_precision": 0.8969072164948454,
+  "e2e_recall": 0.8130841121495327,
+  "fa_extra": 1,
+  "fa_test": 0,
+  "fa_pooled": 1,
+  "n_pooled": 106,
+  "wilson95": [
+   0.0016672287844913501,
+   0.05151480789377989
+  ]
+ },
+ {
+  "det_conf": 0.5,
+  "clf_prob": 0.8,
+  "e2e_precision": 0.8969072164948454,
+  "e2e_recall": 0.8130841121495327,
+  "fa_extra": 0,
+  "fa_test": 0,
+  "fa_pooled": 0,
+  "n_pooled": 106,
+  "wilson95": [
+   0.0,
+   0.034973998922084165
+  ]
+ },
+ {
+  "det_conf": 0.5,
+  "clf_prob": 0.9,
+  "e2e_precision": 0.9130434782608695,
+  "e2e_recall": 0.7850467289719626,
+  "fa_extra": 0,
+  "fa_test": 0,
+  "fa_pooled": 0,
+  "n_pooled": 106,
+  "wilson95": [
+   0.0,
+   0.034973998922084165
+  ]
+ },
+ {
+  "det_conf": 0.5,
+  "clf_prob": 0.95,
+  "e2e_precision": 0.9302325581395349,
+  "e2e_recall": 0.7476635514018691,
+  "fa_extra": 0,
+  "fa_test": 0,
+  "fa_pooled": 0,
+  "n_pooled": 106,
+  "wilson95": [
+   0.0,
+   0.034973998922084165
+  ]
+ }
+]
